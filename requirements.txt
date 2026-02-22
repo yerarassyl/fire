@@ -1,0 +1,11 @@
+psycopg2-binary==2.9.9
+pandas==2.2.2
+python-dotenv==1.0.1
+
+fastapi==0.115.0
+uvicorn==0.30.6
+
+streamlit==1.37.1
+plotly==5.23.0
+requests==2.32.3
+multipart
